@@ -72,7 +72,7 @@
 ### 1. Clone & Launch
 
 ```bash
-git clone https://github.com/yourorg/eaas-core-public.git
+git clone https://github.com/Jasonyou1995/eaas-core-public.git
 cd eaas-core-public
 
 # Copy environment template
