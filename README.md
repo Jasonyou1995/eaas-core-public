@@ -303,9 +303,7 @@ We welcome contributions to the core framework. For security issues, please emai
 
 ## 📬 Contact
 
-- **Twitter**: [@eaasframework](https://twitter.com/eaasframework)
-- **Discord**: [discord.gg/eaas](https://discord.gg/eaas)
-- **Email**: hello@eaas.dev
+- **Email**: jy98105@gmail.com
 
 ---
 
