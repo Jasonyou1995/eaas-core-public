@@ -21,7 +21,7 @@ docker==7.1.0
 
 # Configuration & Utils
 pyyaml==6.0.2
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 tenacity==9.0.0  # Retry logic
 
 # Security
